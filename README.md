@@ -1,8 +1,8 @@
 ﻿# Netflix clone
-*A responsive Netflix Clone built with HTML and CSS, showcasing modern web design practices and responsiveness.
+#### A responsive Netflix Clone built with HTML and CSS, showcasing modern web design practices and responsiveness.
 
-📜 Project Overview
-*This project is a front-end replica of Netflix's home page. It includes sections such as a header, a hero banner, features, frequently asked questions, and more, providing a visually appealing and user-friendly layout.
+📜 Project Overview:
+#### This project is a front-end replica of Netflix's home page. It includes sections such as a header, a hero banner, features, frequently asked questions, and more, providing a visually appealing and user-friendly layout.
 
 🎯 Features
 * Fully responsive design for various screen sizes.
@@ -16,24 +16,24 @@
 * Frequently Asked Questions (FAQs) section for better engagement.
 
 🛠️ Technologies Used
-*HTML5: For the structure and content of the webpage.
-*CSS3: For styling, layout, and responsiveness.
+#### HTML5: For the structure and content of the webpage.
+#### CSS3: For styling, layout, and responsiveness.
 
 📂 File Structure
-*Netflix Clone
+####Netflix Clone
 
---> index.html           # Main HTML file
---> style.css            # CSS styles for the project
---> assets/              # Folder containing images and videos
-│   --> netbg.jpg        # Background image
-│   --> TV.jpeg          # Image for the TV section
-│   --> appleTV.png      # Image for the Watch Everywhere section
-│   --> kids.png         # Image for the Kids Profile section
-│   --> downloads.png    # Image for the Offline Download section
-│   --> vdo.mp4          # Sample video for demonstration
+##### index.html           # Main HTML file
+##### style.css            # CSS styles for the project
+##### assets/              # Folder containing images and videos
+        ###### netbg.jpg        # Background image
+        ###### TV.jpeg          # Image for the TV section
+        ###### appleTV.png      # Image for the Watch Everywhere section
+        ###### kids.png         # Image for the Kids Profile section
+        ###### downloads.png    # Image for the Offline Download section
+        ###### vdo.mp4          # Sample video for demonstration
 
 🚀 Getting Started
-*To view the project locally:
+#### To view the project locally:
 
 1.Clone the repository: Paste the following in the vscode terminal
 
