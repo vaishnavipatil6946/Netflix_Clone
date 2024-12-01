@@ -25,12 +25,12 @@
 * ##### index.html           # Main HTML file
 * ##### style.css            # CSS styles for the project
 * ##### assets/              # Folder containing images and videos
-  -> netbg.jpg        # Background image
-  -> TV.jpeg          # Image for the TV section
-  -> appleTV.png      # Image for the Watch Everywhere section
-  -> kids.png         # Image for the Kids Profile section
-  -> downloads.png    # Image for the Offline Download section
-  -> vdo.mp4          # Sample video for demonstration
+          -> netbg.jpg        # Background image
+          -> TV.jpeg          # Image for the TV section
+          -> appleTV.png      # Image for the Watch Everywhere section
+          -> kids.png         # Image for the Kids Profile section
+          -> downloads.png    # Image for the Offline Download section
+          -> vdo.mp4          # Sample video for demonstration
 
 🚀 Getting Started
 #### To view the project locally:
