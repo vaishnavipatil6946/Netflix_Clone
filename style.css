@@ -1102,7 +1102,7 @@ section{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); 
-    width: 400px;
+    width: 380px;
     text-align: center;
 }
 .nav{
@@ -1112,18 +1112,20 @@ section{
     left: 52%;
     display: flex;
     justify-content: space-between;
-    width: calc(100vw - 40px);
+    width: calc(100vw - 35px);
     transform: translate(-50%, -50%);
     align-items: center;
 }
-/* .logo{
-    color: red;
-} */
+.logo{
+    position: relative;
+    left: -8px;
+}
 .nav-flex{
     display: flex;
-    gap: 10px;
+    gap: 8px;
     position: relative;
-    right: 15px;
+    right: 8px;
+    top: -10px;
 }
 .btn1{
     display: flex;
@@ -1148,7 +1150,7 @@ section{
 }
 
 .title{
-    font-size: 4.8vmax;
+    font-size: 4.5vmax;
     text-align: center;
 }
 .sub-title{
